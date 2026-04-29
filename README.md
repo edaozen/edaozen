@@ -1,16 +1,13 @@
-## Hi there 👋
+# Merhaba, Ben Eda Nur Özen 
 
-<!--
-**edaozen/edaozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]İstanbul Arel Üniversitesi Bilgisayar Mühendisliği bölümü 4. sınıf öğrencisiyim[cite: 8, 76]. [cite_start]Yazılım geliştirme süreçlerinde web ve mobil geliştirme, teknik proje yönetimi ve ürün geliştirme üzerine yoğunlaşıyorum[cite: 10, 28, 78]. [cite_start]Karmaşık algoritmaları teknik altyapım ve analitik düşünme becerilerimle optimize ederek yüksek performanslı çözümler üretmeyi amaçlıyorum[cite: 14, 29, 30].
 
-Here are some ideas to get you started:
+### İlgi Alanları
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [cite_start]**Programlama Dilleri:** Python, Java, C, C++ ve SQL dillerinde yetkinliğe sahibim[cite: 28].
+* **Yazılım Geliştirme:** Java Swing ile masaüstü uygulama geliştirme ve modern yazılım mimarileri konularında deneyimliyim.
+* [cite_start]**Teknik Yönetim:** Agile metodolojilerle yürütülen projelerde planlama, koordinasyon ve problem çözme süreçlerinde aktif rol alıyorum[cite: 11, 24].
+
+### Öne Çıkan Projeler
+
+* [cite_start]**Yapay Zekâ ile Parkinson Teşhisi (TÜBİTAK 2209-A):** Ses telleri üzerinden makine öğrenimi yöntemlerini kullanarak hastalığın erken teşhisine yönelik bir araştırma projesi geliştirdim[cite: 89, 90].
